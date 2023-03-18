@@ -4,7 +4,7 @@
       "<modversion>": "This is not possible at this time."
     },
     "promos": {
-      "<mcversion>-latest": "0.1.0",
-      "<mcversion>-recommended": "0.1.0"
+      "<mcversion>-latest": "0.1.5-beta",
+      "<mcversion>-recommended": "0.1.5-beta"
     }
   }
