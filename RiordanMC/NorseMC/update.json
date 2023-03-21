@@ -1,10 +1,10 @@
 {
     "homepage": "https://modrinth.com/mod/norsemc-riordanmc/versions",
     "<mcversion>": {
-      "<modversion>": "This is not possible at this time."
+      "<modversion>": "Added Bottle of Blood, which drops when a player dies. Currently has no use."
     },
     "promos": {
-      "<mcversion>-latest": "0.1.5-beta",
-      "<mcversion>-recommended": "0.1.5-beta"
+      "<mcversion>-latest": "0.1.5",
+      "<mcversion>-recommended": "0.1.5"
     }
   }
