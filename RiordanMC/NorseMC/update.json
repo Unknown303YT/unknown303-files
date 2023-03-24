@@ -1,10 +1,10 @@
 {
     "homepage": "https://modrinth.com/mod/norsemc-riordanmc/versions",
     "<mcversion>": {
-      "<modversion>": "Added Bottle of Blood, which drops when a player dies. Currently has no use."
+      "<modversion>": "Added Bone Steel, used to craft Mjolnir, Thor's Hammer. How to craft is on the Website."
     },
     "promos": {
-      "<mcversion>-latest": "0.1.5",
-      "<mcversion>-recommended": "0.1.5"
+      "<mcversion>-latest": "0.2.0",
+      "<mcversion>-recommended": "0.2.0"
     }
   }
