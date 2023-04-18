@@ -1,10 +1,10 @@
 {
     "homepage": "https://modrinth.com/mod/norsemc-riordanmc/versions",
-    "<mcversion>": {
-      "<modversion>": "Added Bone Steel, used to craft Mjolnir, Thor's Hammer. How to craft is on the Website."
+    "norsemc": {
+      "1.6.0": "Updated loot tables."
     },
     "promos": {
-      "<mcversion>-latest": "0.2.0",
-      "<mcversion>-recommended": "0.2.0"
+      "norsemc-latest": "1.6.0",
+      "norsemc-recommended": "1.6.0"
     }
   }
