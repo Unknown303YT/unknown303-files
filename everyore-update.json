@@ -1,0 +1,10 @@
+{
+  "homepage": "https://modrinth.com/mod/every-ore",
+  "1.20.1": {
+    "0.1.0-1.20.1": "Added Lapis Tools and Armor", 
+  },
+  "promos": {
+    "1.20.1-latest": "0.1.0-1.20.1",
+    "1.20.1-recommended": "0.1.0-1.20.1",
+  }
+}
